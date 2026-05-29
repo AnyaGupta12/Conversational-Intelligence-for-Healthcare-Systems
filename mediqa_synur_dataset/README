@@ -1,0 +1,38 @@
+# Dataset Card: MEDIQA-SYNUR
+
+## 1. Dataset Summary
+
+- **Name**: MEDIQA-SYNUR
+- **Full name / acronym**: MEDIQA Competition on **SYnthetic NURsing Observation Extraction**
+- **Purpose / use case**:
+  SYNUR is intended to support research in structuring nurse dictation transcripts by extracting clinical observations that can feed into flowsheet-style EHR entries. It is designed to reduce documentation burden by enabling automated conversion from spoken nurse assessments to structured observations. ([arxiv.org](https://arxiv.org/pdf/2507.05517))
+- **Version**: MEDIQA-SYNUR @ ClinicalNLP / LREC 2026
+- **License / usage terms**: cdla-permissive-2.0
+
+## 2. Train and Development Sets
+
+- Trainset
+  - Filename: `train.jsonl`
+  - Size: 122 samples.
+- Development
+  - Filename: `dev.jsonl`
+  - Size: 101 samples.
+
+## 3. Data Fields / Format
+
+- `transcript`: string, the nurse dictation (raw spoken text)
+- `observations`: JSON dumped of list of dictionaries with following format
+   - `id` (str): key of observation in schema.
+   - `value_type` (str): type of observation in {*SINGLE_SELECT*, *MULTI_SELECT*, *STRING*, *NUMERIC*}.
+   - `name` (str): observation concept name.
+   - `value` (any): value of observation.
+
+## 4. Observation Schema
+
+The full ontology (i.e., 193 observation concepts) is provided in the zip folder as `synur_schema.json`. It is a list of dictionaries with the following key-value pairs:
+
+- `id` (str): key of observation concept.
+- `name` (str): observation concept name.
+- `value_type` (str): type of observation in {*SINGLE_SELECT*, *MULTI_SELECT*, *STRING*, *NUMERIC*}.
+- `value_enum` (List[str], *optional*): set of possible string values for *SINGLE_SELECT* and *MULTI_SELECT* value types.
+

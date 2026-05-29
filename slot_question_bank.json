@@ -1,0 +1,2481 @@
+{
+  "Dyspnea": {
+    "question": "Are you having any trouble breathing or shortness of breath?",
+    "keywords": [
+      "breath",
+      "breathing",
+      "dyspnea",
+      "shortness",
+      "trouble"
+    ],
+    "source": "manual"
+  },
+  "Oxygen saturation": {
+    "question": "Have you checked your oxygen levels recently?",
+    "keywords": [
+      "checked",
+      "levels",
+      "oxygen",
+      "saturation"
+    ],
+    "source": "manual"
+  },
+  "Heart rate": {
+    "question": "Is your heart beating faster than usual, or do you feel palpitations?",
+    "keywords": [
+      "beating",
+      "faster",
+      "heart",
+      "palpitations",
+      "rate",
+      "than",
+      "usual"
+    ],
+    "source": "manual"
+  },
+  "Blood pressure": {
+    "question": "Do you have any history of high or low blood pressure?",
+    "keywords": [
+      "blood",
+      "high",
+      "history",
+      "pressure"
+    ],
+    "source": "manual"
+  },
+  "Temperature": {
+    "question": "Have you had a fever? Did you check your temperature?",
+    "keywords": [
+      "check",
+      "fever",
+      "temperature"
+    ],
+    "source": "manual"
+  },
+  "Respirations": {
+    "question": "How many breaths per minute roughly — is breathing effortful?",
+    "keywords": [
+      "breathing",
+      "breaths",
+      "effortful",
+      "many",
+      "minute",
+      "respirations",
+      "roughly"
+    ],
+    "source": "manual"
+  },
+  "Pain severity": {
+    "question": "On a scale of 1 to 10, how bad is the pain?",
+    "keywords": [
+      "pain",
+      "scale",
+      "severity"
+    ],
+    "source": "manual"
+  },
+  "Cognitive status": {
+    "question": "Are you feeling mentally clear, or a bit foggy and confused?",
+    "keywords": [
+      "clear",
+      "cognitive",
+      "confused",
+      "foggy",
+      "mentally",
+      "status"
+    ],
+    "source": "manual"
+  },
+  "Orientation": {
+    "question": "Do you know where you are and what day it is?",
+    "keywords": [
+      "know",
+      "orientation",
+      "what"
+    ],
+    "source": "manual"
+  },
+  "Breath sounds": {
+    "question": "Are you hearing any wheezing or rattling when you breathe?",
+    "keywords": [
+      "breath",
+      "breathe",
+      "hearing",
+      "rattling",
+      "sounds",
+      "wheezing"
+    ],
+    "source": "manual"
+  },
+  "Nausea": {
+    "question": "Have you been feeling nauseous?",
+    "keywords": [
+      "nausea",
+      "nauseous"
+    ],
+    "source": "manual"
+  },
+  "Vomiting": {
+    "question": "Have you vomited at all?",
+    "keywords": [
+      "vomited",
+      "vomiting"
+    ],
+    "source": "manual"
+  },
+  "Pain description": {
+    "question": "Can you describe where exactly the pain is and what it feels like?",
+    "keywords": [
+      "describe",
+      "description",
+      "exactly",
+      "feels",
+      "pain",
+      "what"
+    ],
+    "source": "manual"
+  },
+  "Seizure activity": {
+    "question": "Have you had any seizures or convulsions?",
+    "keywords": [
+      "activity",
+      "convulsions",
+      "seizure",
+      "seizures"
+    ],
+    "source": "manual"
+  },
+  "Edema": {
+    "question": "Have you noticed any swelling in your legs or ankles?",
+    "keywords": [
+      "ankles",
+      "edema",
+      "legs",
+      "swelling"
+    ],
+    "source": "manual"
+  },
+  "Skin condition": {
+    "question": "Has your skin colour or texture changed at all?",
+    "keywords": [
+      "changed",
+      "colour",
+      "condition",
+      "skin",
+      "texture"
+    ],
+    "source": "manual"
+  },
+  "Breathing pattern": {
+    "question": "Is your breathing steady, or does it come in bursts?",
+    "keywords": [
+      "breathing",
+      "bursts",
+      "come",
+      "pattern",
+      "steady"
+    ],
+    "source": "manual"
+  },
+  "Work of breathing": {
+    "question": "Does breathing feel unusually hard or tiring even at rest?",
+    "keywords": [
+      "breathing",
+      "even",
+      "hard",
+      "rest",
+      "tiring",
+      "unusually",
+      "work"
+    ],
+    "source": "manual"
+  },
+  "Use of accessory muscles": {
+    "question": "Are you using your neck or stomach muscles to help you breathe?",
+    "keywords": [
+      "accessory",
+      "breathe",
+      "muscles",
+      "neck",
+      "stomach",
+      "using"
+    ],
+    "source": "manual"
+  },
+  "Sensory symptoms": {
+    "question": "Are you having numbness, tingling, burning, or loss of sensation?",
+    "keywords": [
+      "burning",
+      "loss",
+      "numbness",
+      "sensation",
+      "sensory",
+      "symptoms",
+      "tingling"
+    ],
+    "source": "manual"
+  },
+  "Broset violence checklist - confusion": {
+    "question": "Have you been feeling confused or disoriented recently, making it hard to think or make decisions?",
+    "keywords": [
+      "broset",
+      "checklist",
+      "confused",
+      "confusion",
+      "decisions",
+      "disoriented",
+      "hard",
+      "make",
+      "making",
+      "think",
+      "violence"
+    ],
+    "source": "llm"
+  },
+  "Heart sounds": {
+    "question": "Can you hear any unusual sounds when I listen to your heartbeat?",
+    "keywords": [
+      "hear",
+      "heart",
+      "heartbeat",
+      "listen",
+      "sounds",
+      "unusual"
+    ],
+    "source": "llm"
+  },
+  "Sensory perception": {
+    "question": "How would you describe your ability to sense and respond to different textures and temperatures?",
+    "keywords": [
+      "ability",
+      "describe",
+      "different",
+      "perception",
+      "respond",
+      "sense",
+      "sensory",
+      "temperatures",
+      "textures"
+    ],
+    "source": "llm"
+  },
+  "Respiratory interventions": {
+    "question": "What have you been doing to help your breathing and cough while lying in bed?",
+    "keywords": [
+      "breathing",
+      "cough",
+      "interventions",
+      "lying",
+      "respiratory",
+      "what",
+      "while"
+    ],
+    "source": "llm"
+  },
+  "Response latency": {
+    "question": "How long does it take you to respond to your thoughts and feelings, or is it usually normal?",
+    "keywords": [
+      "feelings",
+      "latency",
+      "long",
+      "normal",
+      "respond",
+      "response",
+      "take",
+      "thoughts",
+      "usually"
+    ],
+    "source": "llm"
+  },
+  "Stoma appearance": {
+    "question": "How would you describe the appearance of your stoma?",
+    "keywords": [
+      "appearance",
+      "describe",
+      "stoma"
+    ],
+    "source": "llm"
+  },
+  "Weightbearing status": {
+    "question": "Can you tell me how much weight you're putting on your legs while standing or walking?",
+    "keywords": [
+      "legs",
+      "putting",
+      "standing",
+      "status",
+      "walking",
+      "weight",
+      "weightbearing",
+      "while"
+    ],
+    "source": "llm"
+  },
+  "Oral mucosa status": {
+    "question": "How would you describe the condition of your mouth and tongue: moist or dry?",
+    "keywords": [
+      "condition",
+      "describe",
+      "moist",
+      "mouth",
+      "mucosa",
+      "oral",
+      "status",
+      "tongue"
+    ],
+    "source": "llm"
+  },
+  "Body art": {
+    "question": "Do you have any tattoos, piercings, or other body art that I should be aware of?",
+    "keywords": [
+      "aware",
+      "body",
+      "other",
+      "piercings",
+      "should",
+      "tattoos"
+    ],
+    "source": "llm"
+  },
+  "Bedding change": {
+    "question": "Do you need help changing your bedding or linens during your hospital stay?",
+    "keywords": [
+      "bedding",
+      "change",
+      "changing",
+      "during",
+      "hospital",
+      "linens",
+      "need",
+      "stay"
+    ],
+    "source": "llm"
+  },
+  "Prosthetic use": {
+    "question": "Do you currently use a prosthetic device, such as a limb or implant?",
+    "keywords": [
+      "device",
+      "implant",
+      "limb",
+      "prosthetic",
+      "such"
+    ],
+    "source": "llm"
+  },
+  "Safety equipment": {
+    "question": "Do you wear any special gear or equipment to help you stay safe while working or engaging in activities?",
+    "keywords": [
+      "activities",
+      "engaging",
+      "equipment",
+      "gear",
+      "safe",
+      "safety",
+      "special",
+      "stay",
+      "wear",
+      "while",
+      "working"
+    ],
+    "source": "llm"
+  },
+  "Blood pressure location": {
+    "question": "Where do you usually feel your blood pressure being taken, in your left or right arm?",
+    "keywords": [
+      "blood",
+      "left",
+      "location",
+      "pressure",
+      "right",
+      "taken",
+      "usually"
+    ],
+    "source": "llm"
+  },
+  "Braden scale assessment": {
+    "question": "Are you at risk of developing bedsores or pressure ulcers while lying in bed?",
+    "keywords": [
+      "assessment",
+      "bedsores",
+      "braden",
+      "developing",
+      "lying",
+      "pressure",
+      "risk",
+      "scale",
+      "ulcers",
+      "while"
+    ],
+    "source": "llm"
+  },
+  "Cardiac rhythm": {
+    "question": "What is your heart rhythm like when you're not exercising or under stress?",
+    "keywords": [
+      "cardiac",
+      "exercising",
+      "heart",
+      "rhythm",
+      "stress",
+      "under",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Emesis volume": {
+    "question": "How often do you vomit, and is it a small amount or a lot?",
+    "keywords": [
+      "amount",
+      "emesis",
+      "often",
+      "small",
+      "volume",
+      "vomit"
+    ],
+    "source": "llm"
+  },
+  "Suprapubic tenderness": {
+    "question": "Do you have any discomfort or pain when pressing on your lower belly?",
+    "keywords": [
+      "belly",
+      "discomfort",
+      "lower",
+      "pain",
+      "pressing",
+      "suprapubic",
+      "tenderness"
+    ],
+    "source": "llm"
+  },
+  "Ambulatory aid": {
+    "question": "Do you use any assistive devices or equipment when walking or moving around?",
+    "keywords": [
+      "ambulatory",
+      "around",
+      "assistive",
+      "devices",
+      "equipment",
+      "moving",
+      "walking"
+    ],
+    "source": "llm"
+  },
+  "Emesis color": {
+    "question": "What color was the vomit when you threw up?",
+    "keywords": [
+      "color",
+      "emesis",
+      "threw",
+      "vomit",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Muscle contractures": {
+    "question": "Do you experience stiffness or tightness in your muscles that makes it hard to move?",
+    "keywords": [
+      "contractures",
+      "experience",
+      "hard",
+      "makes",
+      "move",
+      "muscle",
+      "muscles",
+      "stiffness",
+      "tightness"
+    ],
+    "source": "llm"
+  },
+  "Temperature source": {
+    "question": "How did you measure your temperature when you felt unwell?",
+    "keywords": [
+      "felt",
+      "measure",
+      "source",
+      "temperature",
+      "unwell"
+    ],
+    "source": "llm"
+  },
+  "Nutrition status": {
+    "question": "How would you describe your current diet and eating habits?",
+    "keywords": [
+      "current",
+      "describe",
+      "diet",
+      "eating",
+      "habits",
+      "nutrition",
+      "status"
+    ],
+    "source": "llm"
+  },
+  "Delirium symptoms": {
+    "question": "What symptoms have you been experiencing that are causing you to feel confused or disoriented?",
+    "keywords": [
+      "causing",
+      "confused",
+      "delirium",
+      "disoriented",
+      "symptoms",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Excoriated tissue": {
+    "question": "Have you noticed any areas of your skin that are raw, red, or inflamed?",
+    "keywords": [
+      "areas",
+      "excoriated",
+      "inflamed",
+      "skin",
+      "tissue"
+    ],
+    "source": "llm"
+  },
+  "Speech content": {
+    "question": "Can you tell me what you've been trying to communicate with others lately?",
+    "keywords": [
+      "communicate",
+      "content",
+      "lately",
+      "others",
+      "speech",
+      "trying",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Pain management": {
+    "question": "How do you usually manage your pain when it flares up?",
+    "keywords": [
+      "flares",
+      "manage",
+      "management",
+      "pain",
+      "usually"
+    ],
+    "source": "llm"
+  },
+  "Secondary diagnosis": {
+    "question": "Have you been diagnosed with any other medical conditions that your doctor is not aware of?",
+    "keywords": [
+      "aware",
+      "conditions",
+      "diagnosed",
+      "diagnosis",
+      "doctor",
+      "medical",
+      "other",
+      "secondary"
+    ],
+    "source": "llm"
+  },
+  "Constipation episode": {
+    "question": "Have you been experiencing constipation episodes recently?",
+    "keywords": [
+      "constipation",
+      "episode",
+      "episodes"
+    ],
+    "source": "llm"
+  },
+  "Pulse oximetry": {
+    "question": "What's your oxygen level, measured by the device on your finger?",
+    "keywords": [
+      "device",
+      "finger",
+      "level",
+      "measured",
+      "oximetry",
+      "oxygen",
+      "pulse",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Urinary within defined limits": {
+    "question": "Do you have any issues with your urine flow or frequency within the past few days?",
+    "keywords": [
+      "days",
+      "defined",
+      "flow",
+      "frequency",
+      "issues",
+      "limits",
+      "past",
+      "urinary",
+      "urine",
+      "within"
+    ],
+    "source": "llm"
+  },
+  "Gastrointestinal status": {
+    "question": "How would you describe your stomach's size and feeling lately?",
+    "keywords": [
+      "describe",
+      "gastrointestinal",
+      "lately",
+      "size",
+      "status",
+      "stomach"
+    ],
+    "source": "llm"
+  },
+  "Motor strength": {
+    "question": "How would you rate your arm strength, would you say it's normal, weak, or strong?",
+    "keywords": [
+      "motor",
+      "normal",
+      "rate",
+      "strength",
+      "strong",
+      "weak"
+    ],
+    "source": "llm"
+  },
+  "Communication sensory": {
+    "question": "How would you describe your ability to communicate with others, including friends and family?",
+    "keywords": [
+      "ability",
+      "communicate",
+      "communication",
+      "describe",
+      "family",
+      "friends",
+      "including",
+      "others",
+      "sensory"
+    ],
+    "source": "llm"
+  },
+  "Speech clarity": {
+    "question": "How would you describe your speech today?",
+    "keywords": [
+      "clarity",
+      "describe",
+      "speech",
+      "today"
+    ],
+    "source": "llm"
+  },
+  "Toileting needs": {
+    "question": "How often do you need to use the bathroom, and is it difficult for you to go when you need to?",
+    "keywords": [
+      "bathroom",
+      "difficult",
+      "need",
+      "needs",
+      "often",
+      "toileting"
+    ],
+    "source": "llm"
+  },
+  "Broset violence checklist - boisterous": {
+    "question": "Do you often shout or get loud with others, or feel like you're about to explode?",
+    "keywords": [
+      "boisterous",
+      "broset",
+      "checklist",
+      "explode",
+      "loud",
+      "often",
+      "others",
+      "shout",
+      "violence"
+    ],
+    "source": "llm"
+  },
+  "Voiding function": {
+    "question": "Do you have any trouble with urination, such as difficulty starting or stopping the flow?",
+    "keywords": [
+      "difficulty",
+      "flow",
+      "function",
+      "starting",
+      "stopping",
+      "such",
+      "trouble",
+      "urination",
+      "voiding"
+    ],
+    "source": "llm"
+  },
+  "Pitting edema": {
+    "question": "How swollen are your legs and feet, on a scale from very slightly swollen to very swollen?",
+    "keywords": [
+      "edema",
+      "feet",
+      "legs",
+      "pitting",
+      "scale",
+      "slightly",
+      "swollen",
+      "very"
+    ],
+    "source": "llm"
+  },
+  "CMS movement": {
+    "question": "Can you tell me about any recent changes in your ability to move your muscles or walk?",
+    "keywords": [
+      "ability",
+      "changes",
+      "move",
+      "movement",
+      "muscles",
+      "recent",
+      "walk"
+    ],
+    "source": "llm"
+  },
+  "Tube feeding type": {
+    "question": "What type of feeding tube do you use to get nutrition?",
+    "keywords": [
+      "feeding",
+      "nutrition",
+      "tube",
+      "type",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Clinician notification": {
+    "question": "Have you been notified by a healthcare provider about a medical concern or issue recently?",
+    "keywords": [
+      "clinician",
+      "concern",
+      "healthcare",
+      "issue",
+      "medical",
+      "notification",
+      "notified",
+      "provider"
+    ],
+    "source": "llm"
+  },
+  "Peripheral pulses": {
+    "question": "Can you feel a pulse in your wrists, elbows, and knees when you press on them?",
+    "keywords": [
+      "elbows",
+      "knees",
+      "peripheral",
+      "press",
+      "pulse",
+      "pulses",
+      "them",
+      "wrists"
+    ],
+    "source": "llm"
+  },
+  "Pain goal": {
+    "question": "What is your ideal level of pain relief, on a scale of 0 to 10?",
+    "keywords": [
+      "goal",
+      "ideal",
+      "level",
+      "pain",
+      "relief",
+      "scale",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Gas passage": {
+    "question": "Do you have trouble passing gas or feeling bloated?",
+    "keywords": [
+      "bloated",
+      "passage",
+      "passing",
+      "trouble"
+    ],
+    "source": "llm"
+  },
+  "Medications": {
+    "question": "What medications are you currently taking, and how often do you take them?",
+    "keywords": [
+      "medications",
+      "often",
+      "take",
+      "taking",
+      "them",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Gown change": {
+    "question": "Do you need help with changing your clothes or gown during your hospital stay?",
+    "keywords": [
+      "change",
+      "changing",
+      "clothes",
+      "during",
+      "gown",
+      "hospital",
+      "need",
+      "stay"
+    ],
+    "source": "llm"
+  },
+  "Mean arterial pressure (MAP)": {
+    "question": "How high has your blood pressure been on average over the past few days?",
+    "keywords": [
+      "arterial",
+      "average",
+      "blood",
+      "days",
+      "high",
+      "mean",
+      "over",
+      "past",
+      "pressure"
+    ],
+    "source": "llm"
+  },
+  "Mental status": {
+    "question": "Do you often forget things, such as appointments or tasks, and struggle to remember them?",
+    "keywords": [
+      "appointments",
+      "forget",
+      "mental",
+      "often",
+      "remember",
+      "status",
+      "struggle",
+      "such",
+      "tasks",
+      "them",
+      "things"
+    ],
+    "source": "llm"
+  },
+  "Cough strength": {
+    "question": "How would you describe the strength of your cough: gentle, moderate, or severe?",
+    "keywords": [
+      "cough",
+      "describe",
+      "gentle",
+      "moderate",
+      "severe",
+      "strength"
+    ],
+    "source": "llm"
+  },
+  "Capillary refill": {
+    "question": "How quickly does your skin return to its normal color after applying pressure?",
+    "keywords": [
+      "applying",
+      "capillary",
+      "color",
+      "normal",
+      "pressure",
+      "quickly",
+      "refill",
+      "return",
+      "skin"
+    ],
+    "source": "llm"
+  },
+  "IV fluid type and rate": {
+    "question": "What type of fluid and how quickly are you receiving IV fluids?",
+    "keywords": [
+      "fluid",
+      "fluids",
+      "quickly",
+      "rate",
+      "receiving",
+      "type",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Cranial nerve function": {
+    "question": "Can you tell me if you've noticed any changes in your face or eyes that might be related to your nervous system?",
+    "keywords": [
+      "changes",
+      "cranial",
+      "eyes",
+      "face",
+      "function",
+      "might",
+      "nerve",
+      "nervous",
+      "related",
+      "system"
+    ],
+    "source": "llm"
+  },
+  "Perineal edema": {
+    "question": "Do you currently have swelling or puffiness in the area between your vagina and anus?",
+    "keywords": [
+      "anus",
+      "area",
+      "between",
+      "edema",
+      "perineal",
+      "puffiness",
+      "swelling",
+      "vagina"
+    ],
+    "source": "llm"
+  },
+  "Broset violence checklist - physically threatening": {
+    "question": "Have you ever physically threatened someone in the past year?",
+    "keywords": [
+      "broset",
+      "checklist",
+      "ever",
+      "past",
+      "physically",
+      "someone",
+      "threatened",
+      "threatening",
+      "violence",
+      "year"
+    ],
+    "source": "llm"
+  },
+  "Chest expansion": {
+    "question": "Do your lungs expand equally when you breathe in, or is one side moving more than the other?",
+    "keywords": [
+      "breathe",
+      "chest",
+      "equally",
+      "expand",
+      "expansion",
+      "lungs",
+      "moving",
+      "other",
+      "side",
+      "than"
+    ],
+    "source": "llm"
+  },
+  "Transfer technique": {
+    "question": "How did you transfer from your bed to a chair or wheelchair when you needed to?",
+    "keywords": [
+      "chair",
+      "needed",
+      "technique",
+      "transfer",
+      "wheelchair"
+    ],
+    "source": "llm"
+  },
+  "Fluid restriction": {
+    "question": "Are you currently limited to a specific amount of fluid you can drink each day?",
+    "keywords": [
+      "amount",
+      "drink",
+      "each",
+      "fluid",
+      "limited",
+      "restriction",
+      "specific"
+    ],
+    "source": "llm"
+  },
+  "Wound location": {
+    "question": "Where is the wound located on your body?",
+    "keywords": [
+      "body",
+      "located",
+      "location",
+      "wound"
+    ],
+    "source": "llm"
+  },
+  "Feeding assistance": {
+    "question": "Do you need help with eating, or can you manage on your own?",
+    "keywords": [
+      "assistance",
+      "eating",
+      "feeding",
+      "manage",
+      "need"
+    ],
+    "source": "llm"
+  },
+  "Patient belongings": {
+    "question": "Do you have any personal items, such as jewelry or glasses, with you today?",
+    "keywords": [
+      "belongings",
+      "glasses",
+      "items",
+      "jewelry",
+      "personal",
+      "such",
+      "today"
+    ],
+    "source": "llm"
+  },
+  "Food allergies": {
+    "question": "Do you have any food allergies or reactions that you're aware of?",
+    "keywords": [
+      "allergies",
+      "aware",
+      "food",
+      "reactions"
+    ],
+    "source": "llm"
+  },
+  "Urine output": {
+    "question": "How much urine have you been producing in a day lately?",
+    "keywords": [
+      "lately",
+      "output",
+      "producing",
+      "urine"
+    ],
+    "source": "llm"
+  },
+  "Blood pressure method": {
+    "question": "How do you usually find out your blood pressure, automatically or through a special device on your arm?",
+    "keywords": [
+      "automatically",
+      "blood",
+      "device",
+      "find",
+      "method",
+      "pressure",
+      "special",
+      "through",
+      "usually"
+    ],
+    "source": "llm"
+  },
+  "Pupil size": {
+    "question": "How big do you think your pupils are compared to what you're used to?",
+    "keywords": [
+      "compared",
+      "pupil",
+      "pupils",
+      "size",
+      "think",
+      "used",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Pupil response": {
+    "question": "Can you tell me how your pupils are reacting to the light?",
+    "keywords": [
+      "light",
+      "pupil",
+      "pupils",
+      "reacting",
+      "response"
+    ],
+    "source": "llm"
+  },
+  "Memory status": {
+    "question": "How would you describe your memory lately?",
+    "keywords": [
+      "describe",
+      "lately",
+      "memory",
+      "status"
+    ],
+    "source": "llm"
+  },
+  "History of falls": {
+    "question": "Have you experienced any falls or slipped and fallen recently?",
+    "keywords": [
+      "experienced",
+      "fallen",
+      "falls",
+      "history",
+      "slipped"
+    ],
+    "source": "llm"
+  },
+  "Feeding tube status": {
+    "question": "Do you currently have a feeding tube in place to help with your nutrition?",
+    "keywords": [
+      "feeding",
+      "nutrition",
+      "place",
+      "status",
+      "tube"
+    ],
+    "source": "llm"
+  },
+  "Volume status": {
+    "question": "How would you describe your current fluid balance - are you retaining or losing water?",
+    "keywords": [
+      "balance",
+      "current",
+      "describe",
+      "fluid",
+      "losing",
+      "retaining",
+      "status",
+      "volume",
+      "water"
+    ],
+    "source": "llm"
+  },
+  "Bed safety": {
+    "question": "Are you confident that you can safely get in and out of bed without assistance?",
+    "keywords": [
+      "assistance",
+      "confident",
+      "safely",
+      "safety",
+      "without"
+    ],
+    "source": "llm"
+  },
+  "Central line site condition": {
+    "question": "How would you describe the condition of the area where the central line was inserted?",
+    "keywords": [
+      "area",
+      "central",
+      "condition",
+      "describe",
+      "inserted",
+      "line",
+      "site"
+    ],
+    "source": "llm"
+  },
+  "Facial droop": {
+    "question": "Do you experience any weakness or numbness on one side of your face, such as a drooping smile?",
+    "keywords": [
+      "droop",
+      "drooping",
+      "experience",
+      "face",
+      "facial",
+      "numbness",
+      "side",
+      "smile",
+      "such",
+      "weakness"
+    ],
+    "source": "llm"
+  },
+  "Abdomen exam": {
+    "question": "Can you describe the feeling and appearance of your abdomen, such as its shape and tenderness?",
+    "keywords": [
+      "abdomen",
+      "appearance",
+      "describe",
+      "exam",
+      "shape",
+      "such",
+      "tenderness"
+    ],
+    "source": "llm"
+  },
+  "Wound drainage": {
+    "question": "What type of fluid has been draining from your wound: none, yellowish, bloody, or pus-like?",
+    "keywords": [
+      "bloody",
+      "drainage",
+      "draining",
+      "fluid",
+      "none",
+      "type",
+      "what",
+      "wound",
+      "yellowish"
+    ],
+    "source": "llm"
+  },
+  "Assistance with personal hygiene": {
+    "question": "Do you need help with washing, dressing, or using the bathroom?",
+    "keywords": [
+      "assistance",
+      "bathroom",
+      "dressing",
+      "hygiene",
+      "need",
+      "personal",
+      "using",
+      "washing"
+    ],
+    "source": "llm"
+  },
+  "Positioning frequency": {
+    "question": "How often do you need to adjust your position to avoid discomfort or pressure?",
+    "keywords": [
+      "adjust",
+      "avoid",
+      "discomfort",
+      "frequency",
+      "need",
+      "often",
+      "position",
+      "positioning",
+      "pressure"
+    ],
+    "source": "llm"
+  },
+  "Urine color": {
+    "question": "What is the usual color of your urine when you urinate?",
+    "keywords": [
+      "color",
+      "urinate",
+      "urine",
+      "usual",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Mobility": {
+    "question": "How would you describe your ability to move around and perform daily activities without any assistance?",
+    "keywords": [
+      "ability",
+      "activities",
+      "around",
+      "assistance",
+      "daily",
+      "describe",
+      "mobility",
+      "move",
+      "perform",
+      "without"
+    ],
+    "source": "llm"
+  },
+  "Glasgow coma score - best motor response": {
+    "question": "Can you follow my instructions and respond to what I say, or do you respond in your own way?",
+    "keywords": [
+      "best",
+      "coma",
+      "follow",
+      "glasgow",
+      "instructions",
+      "motor",
+      "respond",
+      "response",
+      "score",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "PO intake": {
+    "question": "Do you take any pills or medicines regularly?",
+    "keywords": [
+      "intake",
+      "medicines",
+      "pills",
+      "regularly",
+      "take"
+    ],
+    "source": "llm"
+  },
+  "Patient weight": {
+    "question": "How much do you weigh?",
+    "keywords": [
+      "weigh",
+      "weight"
+    ],
+    "source": "llm"
+  },
+  "Oxygen delivery device": {
+    "question": "What device is being used to deliver oxygen to help you breathe better?",
+    "keywords": [
+      "better",
+      "breathe",
+      "deliver",
+      "delivery",
+      "device",
+      "oxygen",
+      "used",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Nailbed color": {
+    "question": "What is the color of your fingernails when you're not using lotion or soap?",
+    "keywords": [
+      "color",
+      "fingernails",
+      "lotion",
+      "nailbed",
+      "soap",
+      "using",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Peripheral IV site condition": {
+    "question": "How would you describe the condition of the area where your IV is inserted?",
+    "keywords": [
+      "area",
+      "condition",
+      "describe",
+      "inserted",
+      "peripheral",
+      "site"
+    ],
+    "source": "llm"
+  },
+  "Command following": {
+    "question": "Do you have trouble following instructions or remembering what you need to do?",
+    "keywords": [
+      "command",
+      "following",
+      "instructions",
+      "need",
+      "remembering",
+      "trouble",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Foreign object removal": {
+    "question": "Have you swallowed or inserted something into your body that you'd like to have removed?",
+    "keywords": [
+      "body",
+      "foreign",
+      "inserted",
+      "object",
+      "removal",
+      "removed",
+      "something",
+      "swallowed"
+    ],
+    "source": "llm"
+  },
+  "Intravenous therapy": {
+    "question": "Have you been receiving any medication through a vein recently?",
+    "keywords": [
+      "intravenous",
+      "medication",
+      "receiving",
+      "therapy",
+      "through",
+      "vein"
+    ],
+    "source": "llm"
+  },
+  "Urine odor": {
+    "question": "Do you often notice a strong, unpleasant smell when you urinate?",
+    "keywords": [
+      "notice",
+      "odor",
+      "often",
+      "smell",
+      "strong",
+      "unpleasant",
+      "urinate",
+      "urine"
+    ],
+    "source": "llm"
+  },
+  "Drain output": {
+    "question": "How much fluid has been draining from the drain tube recently?",
+    "keywords": [
+      "drain",
+      "draining",
+      "fluid",
+      "output",
+      "tube"
+    ],
+    "source": "llm"
+  },
+  "Broset violence checklist - verbally threatening": {
+    "question": "Have you ever threatened someone with harm or violence using words?",
+    "keywords": [
+      "broset",
+      "checklist",
+      "ever",
+      "harm",
+      "someone",
+      "threatened",
+      "threatening",
+      "using",
+      "verbally",
+      "violence",
+      "words"
+    ],
+    "source": "llm"
+  },
+  "Joint swelling": {
+    "question": "Do you have any swelling or puffiness in your joints, such as your hands or wrists?",
+    "keywords": [
+      "hands",
+      "joint",
+      "joints",
+      "puffiness",
+      "such",
+      "swelling",
+      "wrists"
+    ],
+    "source": "llm"
+  },
+  "Stool consistency": {
+    "question": "How would you describe the consistency of your bowel movements most of the time?",
+    "keywords": [
+      "bowel",
+      "consistency",
+      "describe",
+      "most",
+      "movements",
+      "stool",
+      "time"
+    ],
+    "source": "llm"
+  },
+  "Hiccups": {
+    "question": "Do you currently have hiccups?",
+    "keywords": [
+      "hiccups"
+    ],
+    "source": "llm"
+  },
+  "Catheter condition": {
+    "question": "How is the catheter functioning, is it working properly or is there a problem with it?",
+    "keywords": [
+      "catheter",
+      "condition",
+      "functioning",
+      "problem",
+      "properly",
+      "working"
+    ],
+    "source": "llm"
+  },
+  "Wound type": {
+    "question": "How did you get the wound on your body?",
+    "keywords": [
+      "body",
+      "type",
+      "wound"
+    ],
+    "source": "llm"
+  },
+  "Fall risk identification": {
+    "question": "Are you at risk of falling or have you fallen recently?",
+    "keywords": [
+      "fall",
+      "fallen",
+      "falling",
+      "identification",
+      "risk"
+    ],
+    "source": "llm"
+  },
+  "BMAT level": {
+    "question": "What is your current level of blood sugar management: one, two, three, or four?",
+    "keywords": [
+      "blood",
+      "bmat",
+      "current",
+      "four",
+      "level",
+      "management",
+      "sugar",
+      "three",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Assistance with toileting": {
+    "question": "Do you need help with using the bathroom or getting to the bathroom?",
+    "keywords": [
+      "assistance",
+      "bathroom",
+      "getting",
+      "need",
+      "toileting",
+      "using"
+    ],
+    "source": "llm"
+  },
+  "Glasgow coma score - best verbal response": {
+    "question": "Can you tell me what's going on and what I'm talking about right now?",
+    "keywords": [
+      "best",
+      "coma",
+      "glasgow",
+      "going",
+      "response",
+      "right",
+      "score",
+      "talking",
+      "verbal",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Fall risk total": {
+    "question": "Have you had any falls or close calls recently, and do you feel steady on your feet?",
+    "keywords": [
+      "calls",
+      "close",
+      "fall",
+      "falls",
+      "feet",
+      "risk",
+      "steady",
+      "total"
+    ],
+    "source": "llm"
+  },
+  "Skin turgor": {
+    "question": "How would you describe the skin on the back of your hand when I gently pinch it?",
+    "keywords": [
+      "back",
+      "describe",
+      "gently",
+      "hand",
+      "pinch",
+      "skin",
+      "turgor"
+    ],
+    "source": "llm"
+  },
+  "Bed position": {
+    "question": "How do you usually position yourself in bed when you're sleeping?",
+    "keywords": [
+      "position",
+      "sleeping",
+      "usually",
+      "yourself"
+    ],
+    "source": "llm"
+  },
+  "Caloric intake": {
+    "question": "How many calories do you typically consume in a day?",
+    "keywords": [
+      "caloric",
+      "calories",
+      "consume",
+      "intake",
+      "many",
+      "typically"
+    ],
+    "source": "llm"
+  },
+  "Broset violence checklist - irritability": {
+    "question": "Do you often feel annoyed or frustrated with little things, or with people around you?",
+    "keywords": [
+      "annoyed",
+      "around",
+      "broset",
+      "checklist",
+      "frustrated",
+      "irritability",
+      "little",
+      "often",
+      "people",
+      "things",
+      "violence"
+    ],
+    "source": "llm"
+  },
+  "Patient safety": {
+    "question": "Have you ever had a medication or treatment mistake happen to you while in my care?",
+    "keywords": [
+      "care",
+      "ever",
+      "happen",
+      "medication",
+      "mistake",
+      "safety",
+      "treatment",
+      "while"
+    ],
+    "source": "llm"
+  },
+  "Patient safety education": {
+    "question": "Have you received any instructions on how to stay safe while taking your medications?",
+    "keywords": [
+      "education",
+      "instructions",
+      "medications",
+      "received",
+      "safe",
+      "safety",
+      "stay",
+      "taking",
+      "while"
+    ],
+    "source": "llm"
+  },
+  "Extremity warmth": {
+    "question": "How would you describe the temperature of your arm or leg right now?",
+    "keywords": [
+      "describe",
+      "extremity",
+      "right",
+      "temperature",
+      "warmth"
+    ],
+    "source": "llm"
+  },
+  "Fall risk assessment": {
+    "question": "What assessment tool do you think is most relevant to help identify your risk of falling?",
+    "keywords": [
+      "assessment",
+      "fall",
+      "falling",
+      "identify",
+      "most",
+      "relevant",
+      "risk",
+      "think",
+      "tool",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Dental status": {
+    "question": "How do you take care of your teeth, and are you missing or wearing any dentures?",
+    "keywords": [
+      "care",
+      "dental",
+      "dentures",
+      "missing",
+      "status",
+      "take",
+      "teeth",
+      "wearing"
+    ],
+    "source": "llm"
+  },
+  "Friction and shear": {
+    "question": "Do you experience any discomfort or pain when moving your joints or applying pressure to your skin?",
+    "keywords": [
+      "applying",
+      "discomfort",
+      "experience",
+      "friction",
+      "joints",
+      "moving",
+      "pain",
+      "pressure",
+      "shear",
+      "skin"
+    ],
+    "source": "llm"
+  },
+  "General physical exam": {
+    "question": "How would you describe your overall physical health, as normal, within limits, or needing improvement?",
+    "keywords": [
+      "describe",
+      "exam",
+      "general",
+      "health",
+      "improvement",
+      "limits",
+      "needing",
+      "normal",
+      "overall",
+      "physical",
+      "within"
+    ],
+    "source": "llm"
+  },
+  "Patient height": {
+    "question": "How tall are you?",
+    "keywords": [
+      "height",
+      "tall"
+    ],
+    "source": "llm"
+  },
+  "Patient education": {
+    "question": "What do you need to know about your condition to manage it effectively?",
+    "keywords": [
+      "condition",
+      "education",
+      "effectively",
+      "know",
+      "manage",
+      "need",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Bowel sounds": {
+    "question": "Do you notice any unusual sounds or changes in your bowel movements lately?",
+    "keywords": [
+      "bowel",
+      "changes",
+      "lately",
+      "movements",
+      "notice",
+      "sounds",
+      "unusual"
+    ],
+    "source": "llm"
+  },
+  "Incontinence status": {
+    "question": "Do you experience any trouble controlling your bladder or bowels?",
+    "keywords": [
+      "bladder",
+      "bowels",
+      "controlling",
+      "experience",
+      "incontinence",
+      "status",
+      "trouble"
+    ],
+    "source": "llm"
+  },
+  "Gastrointestinal interventions": {
+    "question": "Have you had any procedures or treatments done to help with your digestive issues?",
+    "keywords": [
+      "digestive",
+      "done",
+      "gastrointestinal",
+      "interventions",
+      "issues",
+      "procedures",
+      "treatments"
+    ],
+    "source": "llm"
+  },
+  "Joint deformity": {
+    "question": "How would you describe the deformity or abnormality in your joint or joints?",
+    "keywords": [
+      "abnormality",
+      "deformity",
+      "describe",
+      "joint",
+      "joints"
+    ],
+    "source": "llm"
+  },
+  "Dressing condition": {
+    "question": "How would you describe the condition of your dressing or bandage today?",
+    "keywords": [
+      "bandage",
+      "condition",
+      "describe",
+      "dressing",
+      "today"
+    ],
+    "source": "llm"
+  },
+  "Diarrhea episode": {
+    "question": "How often do you usually have episodes of diarrhea?",
+    "keywords": [
+      "diarrhea",
+      "episode",
+      "episodes",
+      "often",
+      "usually"
+    ],
+    "source": "llm"
+  },
+  "Glasgow coma score - eye opening": {
+    "question": "Can you tell me when you last opened your eyes on your own, without any help?",
+    "keywords": [
+      "coma",
+      "eyes",
+      "glasgow",
+      "last",
+      "opened",
+      "opening",
+      "score",
+      "without"
+    ],
+    "source": "llm"
+  },
+  "Respiratory equipment": {
+    "question": "Do you use a special device to help you breathe and cough while you're recovering?",
+    "keywords": [
+      "breathe",
+      "cough",
+      "device",
+      "equipment",
+      "recovering",
+      "respiratory",
+      "special",
+      "while"
+    ],
+    "source": "llm"
+  },
+  "Jugular venous distention (JVD)": {
+    "question": "Do you notice any swelling or bulging in the middle of your neck when you tilt your head back?",
+    "keywords": [
+      "back",
+      "bulging",
+      "distention",
+      "head",
+      "jugular",
+      "middle",
+      "neck",
+      "notice",
+      "swelling",
+      "tilt",
+      "venous"
+    ],
+    "source": "llm"
+  },
+  "Pulse": {
+    "question": "How would you describe your pulse or heart rate, is it normal for you or have you noticed any changes?",
+    "keywords": [
+      "changes",
+      "describe",
+      "heart",
+      "normal",
+      "pulse",
+      "rate"
+    ],
+    "source": "llm"
+  },
+  "Urine appearance": {
+    "question": "What is the usual color and clarity of your urine when you urinate?",
+    "keywords": [
+      "appearance",
+      "clarity",
+      "color",
+      "urinate",
+      "urine",
+      "usual",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Nasal discharge": {
+    "question": "What is the color of your nasal discharge, is it clear, yellowish, or none at all?",
+    "keywords": [
+      "clear",
+      "color",
+      "discharge",
+      "nasal",
+      "none",
+      "what",
+      "yellowish"
+    ],
+    "source": "llm"
+  },
+  "Meal consumption": {
+    "question": "How often do you eat meals, completely, partially, or not at all?",
+    "keywords": [
+      "completely",
+      "consumption",
+      "meal",
+      "meals",
+      "often",
+      "partially"
+    ],
+    "source": "llm"
+  },
+  "Orthotic device use": {
+    "question": "Do you currently use an orthotic device to help with your mobility or comfort?",
+    "keywords": [
+      "comfort",
+      "device",
+      "mobility",
+      "orthotic"
+    ],
+    "source": "llm"
+  },
+  "Moisture level": {
+    "question": "How often do you notice your skin feeling moist or dry?",
+    "keywords": [
+      "level",
+      "moist",
+      "moisture",
+      "notice",
+      "often",
+      "skin"
+    ],
+    "source": "llm"
+  },
+  "Urinary stone": {
+    "question": "Have you ever had a kidney stone or experienced any pain while urinating?",
+    "keywords": [
+      "ever",
+      "experienced",
+      "kidney",
+      "pain",
+      "stone",
+      "urinary",
+      "urinating",
+      "while"
+    ],
+    "source": "llm"
+  },
+  "Gait and transferring": {
+    "question": "How do you usually get around, on your own or with help from others?",
+    "keywords": [
+      "around",
+      "gait",
+      "others",
+      "transferring",
+      "usually"
+    ],
+    "source": "llm"
+  },
+  "Patient position": {
+    "question": "How have you been sitting or lying down lately?",
+    "keywords": [
+      "down",
+      "lately",
+      "lying",
+      "position",
+      "sitting"
+    ],
+    "source": "llm"
+  },
+  "Swallowing function": {
+    "question": "Do you have any trouble or discomfort when swallowing food or liquids?",
+    "keywords": [
+      "discomfort",
+      "food",
+      "function",
+      "liquids",
+      "swallowing",
+      "trouble"
+    ],
+    "source": "llm"
+  },
+  "Gastrointestinal symptoms": {
+    "question": "How have you been feeling about your bowel movements and eating lately?",
+    "keywords": [
+      "bowel",
+      "eating",
+      "gastrointestinal",
+      "lately",
+      "movements",
+      "symptoms"
+    ],
+    "source": "llm"
+  },
+  "Behavior": {
+    "question": "How would you describe your behavior during our conversation today?",
+    "keywords": [
+      "behavior",
+      "conversation",
+      "describe",
+      "during",
+      "today"
+    ],
+    "source": "llm"
+  },
+  "Nasogastric tube status": {
+    "question": "Is a tube inserted into your nose to help you eat or drink?",
+    "keywords": [
+      "drink",
+      "inserted",
+      "nasogastric",
+      "nose",
+      "status",
+      "tube"
+    ],
+    "source": "llm"
+  },
+  "Motor reflexes": {
+    "question": "Do you have any numbness or tingling sensations in your arms or legs that don't go away?",
+    "keywords": [
+      "arms",
+      "away",
+      "legs",
+      "motor",
+      "numbness",
+      "reflexes",
+      "sensations",
+      "tingling"
+    ],
+    "source": "llm"
+  },
+  "Neck tenderness": {
+    "question": "Do you have any tenderness or discomfort in your neck area?",
+    "keywords": [
+      "area",
+      "discomfort",
+      "neck",
+      "tenderness"
+    ],
+    "source": "llm"
+  },
+  "Range of motion exercise": {
+    "question": "Can you show me how you usually move your joints to keep them flexible and comfortable?",
+    "keywords": [
+      "comfortable",
+      "exercise",
+      "flexible",
+      "joints",
+      "keep",
+      "motion",
+      "move",
+      "range",
+      "show",
+      "them",
+      "usually"
+    ],
+    "source": "llm"
+  },
+  "Ear examination": {
+    "question": "Can you tell me about any problems you've been having with your ears or hearing lately?",
+    "keywords": [
+      "ears",
+      "examination",
+      "hearing",
+      "lately",
+      "problems"
+    ],
+    "source": "llm"
+  },
+  "Bowel movement description": {
+    "question": "What is the usual color and consistency of your bowel movements?",
+    "keywords": [
+      "bowel",
+      "color",
+      "consistency",
+      "description",
+      "movement",
+      "movements",
+      "usual",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Hearing aid": {
+    "question": "Do you currently use a hearing aid to help with your hearing?",
+    "keywords": [
+      "hearing"
+    ],
+    "source": "llm"
+  },
+  "Bed alarm status": {
+    "question": "Have you been experiencing any issues with your bed alarm going off or not going off when you need it to?",
+    "keywords": [
+      "alarm",
+      "going",
+      "issues",
+      "need",
+      "status"
+    ],
+    "source": "llm"
+  },
+  "Vaginal discharge": {
+    "question": "What kind of discharge have you been noticing from your vagina, and how often do you experience it?",
+    "keywords": [
+      "discharge",
+      "experience",
+      "kind",
+      "noticing",
+      "often",
+      "vagina",
+      "vaginal",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Fraction of inspired oxygen (FiO2)": {
+    "question": "What percentage of oxygen are you breathing in through your mask or oxygen tank?",
+    "keywords": [
+      "breathing",
+      "fraction",
+      "inspired",
+      "mask",
+      "oxygen",
+      "percentage",
+      "tank",
+      "through",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Patient identification": {
+    "question": "What is your name, and what is your date of birth?",
+    "keywords": [
+      "birth",
+      "date",
+      "identification",
+      "name",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Broset violence checklist - attacking objects": {
+    "question": "Have you ever hit or thrown objects in anger or frustration?",
+    "keywords": [
+      "anger",
+      "attacking",
+      "broset",
+      "checklist",
+      "ever",
+      "frustration",
+      "objects",
+      "thrown",
+      "violence"
+    ],
+    "source": "llm"
+  },
+  "Level of assistance": {
+    "question": "How much help do you need to perform daily activities, such as dressing or bathing?",
+    "keywords": [
+      "activities",
+      "assistance",
+      "bathing",
+      "daily",
+      "dressing",
+      "level",
+      "need",
+      "perform",
+      "such"
+    ],
+    "source": "llm"
+  },
+  "Oxygen flow rate": {
+    "question": "How much oxygen are you currently using, and what is your usual flow rate?",
+    "keywords": [
+      "flow",
+      "oxygen",
+      "rate",
+      "using",
+      "usual",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Heart rate source": {
+    "question": "What device was used to measure your heart rate?",
+    "keywords": [
+      "device",
+      "heart",
+      "measure",
+      "rate",
+      "source",
+      "used",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Voice quality": {
+    "question": "How would you describe the quality of your voice to others, and has it changed recently?",
+    "keywords": [
+      "changed",
+      "describe",
+      "others",
+      "quality",
+      "voice"
+    ],
+    "source": "llm"
+  },
+  "Cough description": {
+    "question": "Do you have a cough, and if so, is it accompanied by phlegm or is it dry?",
+    "keywords": [
+      "accompanied",
+      "cough",
+      "description",
+      "phlegm"
+    ],
+    "source": "llm"
+  },
+  "Repositioning": {
+    "question": "Have you recently changed your sleeping position or moved around to relieve discomfort or pain?",
+    "keywords": [
+      "around",
+      "changed",
+      "discomfort",
+      "moved",
+      "pain",
+      "position",
+      "relieve",
+      "repositioning",
+      "sleeping"
+    ],
+    "source": "llm"
+  },
+  "Suction equipment": {
+    "question": "Do you have access to suction equipment if you need it during your treatment?",
+    "keywords": [
+      "access",
+      "during",
+      "equipment",
+      "need",
+      "suction",
+      "treatment"
+    ],
+    "source": "llm"
+  },
+  "Tracheostomy status": {
+    "question": "Do you currently have a tube in your throat that helps you breathe?",
+    "keywords": [
+      "breathe",
+      "helps",
+      "status",
+      "throat",
+      "tracheostomy",
+      "tube"
+    ],
+    "source": "llm"
+  },
+  "Bladder scan volume": {
+    "question": "How much urine was in your bladder when we scanned it today?",
+    "keywords": [
+      "bladder",
+      "scan",
+      "scanned",
+      "today",
+      "urine",
+      "volume"
+    ],
+    "source": "llm"
+  },
+  "Activity level": {
+    "question": "How often do you engage in physical activities, such as walking, in your daily life?",
+    "keywords": [
+      "activities",
+      "activity",
+      "daily",
+      "engage",
+      "level",
+      "life",
+      "often",
+      "physical",
+      "such",
+      "walking"
+    ],
+    "source": "llm"
+  },
+  "Pressure injury stage": {
+    "question": "What stage is the pressure injury you have, and how has it affected your skin and body?",
+    "keywords": [
+      "affected",
+      "body",
+      "injury",
+      "pressure",
+      "skin",
+      "stage",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Urinary symptoms": {
+    "question": "Have you been experiencing any problems with urination, such as difficulty, urgency, or frequent trips to the bathroom?",
+    "keywords": [
+      "bathroom",
+      "difficulty",
+      "frequent",
+      "problems",
+      "such",
+      "symptoms",
+      "trips",
+      "urgency",
+      "urinary",
+      "urination"
+    ],
+    "source": "llm"
+  },
+  "Oxygen saturation unit": {
+    "question": "What percentage of oxygen is in your blood when you breathe normally?",
+    "keywords": [
+      "blood",
+      "breathe",
+      "normally",
+      "oxygen",
+      "percentage",
+      "saturation",
+      "unit",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Temperature unit": {
+    "question": "How do you usually measure your body temperature, in Celsius or Fahrenheit?",
+    "keywords": [
+      "body",
+      "celsius",
+      "fahrenheit",
+      "measure",
+      "temperature",
+      "unit",
+      "usually"
+    ],
+    "source": "llm"
+  },
+  "Heart rate unit": {
+    "question": "What is your normal heart rate, measured in beats per minute?",
+    "keywords": [
+      "beats",
+      "heart",
+      "measured",
+      "minute",
+      "normal",
+      "rate",
+      "unit",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Pulse oximetry unit": {
+    "question": "What percentage of oxygen is being delivered to your body, as measured by the pulse oximeter?",
+    "keywords": [
+      "body",
+      "delivered",
+      "measured",
+      "oximeter",
+      "oximetry",
+      "oxygen",
+      "percentage",
+      "pulse",
+      "unit",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Respirations unit": {
+    "question": "How many breaths do you take per minute when you're at rest?",
+    "keywords": [
+      "breaths",
+      "many",
+      "minute",
+      "respirations",
+      "rest",
+      "take",
+      "unit"
+    ],
+    "source": "llm"
+  },
+  "Urine output unit": {
+    "question": "How much urine have you been producing in a day, measured in milliliters, liters, or cubic centimeters?",
+    "keywords": [
+      "centimeters",
+      "cubic",
+      "liters",
+      "measured",
+      "milliliters",
+      "output",
+      "producing",
+      "unit",
+      "urine"
+    ],
+    "source": "llm"
+  },
+  "Mean arterial pressure (MAP) unit": {
+    "question": "What is your current blood pressure reading, measured in millimeters of mercury (mmHg)?",
+    "keywords": [
+      "arterial",
+      "blood",
+      "current",
+      "mean",
+      "measured",
+      "mercury",
+      "millimeters",
+      "mmhg",
+      "pressure",
+      "reading",
+      "unit",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "PO intake unit": {
+    "question": "How much liquid have you been drinking each day, in milliliters, liters, or cubic centimeters?",
+    "keywords": [
+      "centimeters",
+      "cubic",
+      "drinking",
+      "each",
+      "intake",
+      "liquid",
+      "liters",
+      "milliliters",
+      "unit"
+    ],
+    "source": "llm"
+  },
+  "Patient weight unit": {
+    "question": "What unit do you use to measure your weight: kilograms or pounds?",
+    "keywords": [
+      "kilograms",
+      "measure",
+      "pounds",
+      "unit",
+      "weight",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Fraction of inspired oxygen (FiO2) unit": {
+    "question": "What percentage of oxygen are you breathing in through your oxygen mask or device?",
+    "keywords": [
+      "breathing",
+      "device",
+      "fraction",
+      "inspired",
+      "mask",
+      "oxygen",
+      "percentage",
+      "through",
+      "unit",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Meal consumption unit": {
+    "question": "How much of your daily food intake do you typically consume?",
+    "keywords": [
+      "consume",
+      "consumption",
+      "daily",
+      "food",
+      "intake",
+      "meal",
+      "typically",
+      "unit"
+    ],
+    "source": "llm"
+  },
+  "Oxygen flow rate unit": {
+    "question": "What unit is used to measure the flow rate of oxygen you're using?",
+    "keywords": [
+      "flow",
+      "measure",
+      "oxygen",
+      "rate",
+      "unit",
+      "used",
+      "using",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Bladder scan volume unit": {
+    "question": "What unit of measurement is used to report the volume of fluid in your bladder?",
+    "keywords": [
+      "bladder",
+      "fluid",
+      "measurement",
+      "report",
+      "scan",
+      "unit",
+      "used",
+      "volume",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Caloric intake unit": {
+    "question": "What is your usual way of measuring the amount of calories you consume each day?",
+    "keywords": [
+      "amount",
+      "caloric",
+      "calories",
+      "consume",
+      "each",
+      "intake",
+      "measuring",
+      "unit",
+      "usual",
+      "what"
+    ],
+    "source": "llm"
+  },
+  "Emesis volume unit": {
+    "question": "How many milliliters of vomit did you usually spit up when you were sick?",
+    "keywords": [
+      "emesis",
+      "many",
+      "milliliters",
+      "sick",
+      "spit",
+      "unit",
+      "usually",
+      "volume",
+      "vomit",
+      "were"
+    ],
+    "source": "llm"
+  }
+}
